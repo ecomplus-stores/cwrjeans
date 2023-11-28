@@ -5,11 +5,35 @@
   },
   "links_1": {
     "list_pages": true,
-    "title": "Páginas",
-    "list": []
+    "title": "Informações",
+    "list": [
+      {
+        "text": "Loja de Fábrica "
+      },
+      {
+        "text": "Como Comprar",
+        "url": "/pages/faq"
+      },
+      {
+        "text": "Formas de Envio",
+        "url": "/pages/entrega"
+      },
+      {
+        "text": "Formas de Pagamento",
+        "url": "/pages/pagamentos"
+      },
+      {
+        "text": "Segurança & Privacidade",
+        "url": "/pages/privacidade"
+      },
+      {
+        "text": "Trocas e Devolução",
+        "url": "/pages/trocas"
+      }
+    ]
   },
   "links_2": {
-    "list_categories": true,
+    "list_categories": false,
     "title": "Categorias",
     "list": []
   },
@@ -22,7 +46,7 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/ssl-safe.png",
+      "src": "/img/uploads/seguranca.png",
       "alt": "Secure connection",
       "width": 150,
       "height": 62
