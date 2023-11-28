@@ -26,8 +26,18 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
-    "random": 6,
+    "featured": [
+      "/moda-feminina?Moda Feminina",
+      "/moda-masculina?Moda Masculina",
+      "/saias?Saias",
+      "/shorts?Shorts",
+      "/jardineiras?Jardineiras",
+      "/camisas-femininas?Camisas",
+      "/calcas-femininas?Calças Femininas",
+      "/calcas-masculinas?Calças Masculinas",
+      "/camisas-masculinas?Camisas Masculinas"
+    ],
+    "random": 12,
     "full_width": true
   },
   "centralized_logo": false,
