@@ -1,17 +1,25 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 50%!",
-    "link": "/promotion"
+    "text": "",
+    "link": ""
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
+        "title": "Entre na sua conta",
+        "link": "/app/#/account/"
       },
       {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "Ver Pedidos",
+        "link": "/app/#/account/orders"
+      },
+      {
+        "title": "Como Comprar",
+        "link": "/pages/faq"
+      },
+      {
+        "title": "Loja de Fábrica ",
+        "link": "/pages/contato"
       }
     ],
     "phone_wpp": true,
@@ -20,11 +28,11 @@
   "categories_list": {
     "featured": [],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
   "centralized_logo": false,
   "desktop_megamenu": false,
   "search_input": true,
-  "alphabetical_order_submenu": false,
-  "full_width_submenu": false
+  "alphabetical_order_submenu": true,
+  "full_width_submenu": true
 }
