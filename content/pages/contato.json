@@ -15,6 +15,15 @@
     {
       "type": "custom-content",
       "markdown": "CWR Jeans - O jeans perfeito você encontra aqui, envio para Todo Brasil. \n\nEstilo e conforto em um só lugar. \n\nLoja e fábrica em Avaré-SP\n\nEmpresa no ramo de confecção em jeans a mais de 30 anos no mercado, costurando para grandes marcas e agora com marca própria.\n\n\n\nW﻿hatsapp<a href=\"https://web.whatsapp.com/send?phone=%2B5514997074507\" target=\"_blank\" rel=\"noopener\" class=\"whatsapp-link\" data-tel=\"14997074507\">(14) 99707-4507</a>\n\n\n\n<a href=\"mailto:cwr.avare@uol.com.br\" target=\"_blank\" rel=\"noopener\">cwr.avare@uol.com.br</a>\n\nR. Luís Scarceli, 103- Jardim Paineiras, Avaré - SP, 18705-687\n\nA﻿companhe nas redes\n\n<center><p class=\"footer__social\"><a href=\"https://www.facebook.com/cwrjeans\" target=\"_blank\" rel=\"noopener\" aria-label=\"facebook\" style=\"color: #3b5998\"><i class=\"i-facebook\"></i> </a><a href=\"https://www.instagram.com/cwrjeans/\" target=\"_blank\" rel=\"noopener\" aria-label=\"instagram\" style=\"color: #e1306c\"><i class=\"i-instagram\"></i> </a><a href=\"https://www.tiktok.com/@cwrjeans\" target=\"_blank\" rel=\"noopener\" aria-label=\"tiktok\" style=\"color: #000000\"><i class=\"i-tiktok\"></i></a></p></center>"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "views"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
