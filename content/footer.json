@@ -47,7 +47,7 @@
   "stamps": [
     {
       "src": "/img/uploads/seguranca.png",
-      "alt": "Secure connection",
+      "alt": "Loja Segura",
       "width": 150,
       "height": 62
     }
@@ -56,9 +56,9 @@
     "pix": true,
     "visa": true,
     "mastercard": true,
-    "elo": true,
-    "amex": true,
-    "hipercard": true,
+    "elo": false,
+    "amex": false,
+    "hipercard": false,
     "boleto": true
   },
   "credits": ""
