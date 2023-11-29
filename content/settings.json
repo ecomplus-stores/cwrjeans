@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#191d47",
   "theme": {
-    "bootswatch": "journal",
-    "custom": "ecom-beauty"
+    "bootswatch": "_",
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/cwrjeans",
@@ -16,7 +16,7 @@
   "mini_logo": "",
   "font_family": "Mukta",
   "favicon": "/img/uploads/cwrjeans1.png",
-  "icons_font": "font-awesome",
+  "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#2c276c",
   "icon": "/img/uploads/292160875_374883184743354_4609833901159003604_n.jpg",
