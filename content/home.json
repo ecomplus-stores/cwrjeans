@@ -34,13 +34,10 @@
           "img": "/img/uploads/__cargo.webp"
         },
         {
-          "img": "/img/uploads/__skinnycomcinta.webp"
+          "img": "/img/uploads/__skinny.webp"
         },
         {
           "img": "/img/uploads/__cigarrete.webp"
-        },
-        {
-          "img": "/img/uploads/__skinny.webp"
         }
       ]
     },
@@ -54,6 +51,20 @@
       "limit": 12,
       "collection_id": "65660c202cd6b65959c14ad9:categories:Calças Femininas:/calcas-femininas",
       "sort": "views"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/cupomprimeiracompra.png"
+        },
+        {
+          "img": "/img/uploads/lojadefabrica.png"
+        },
+        {
+          "img": "/img/uploads/whatsapp.png"
+        }
+      ]
     },
     {
       "type": "dynamic-showcase",
