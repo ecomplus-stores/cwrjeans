@@ -88,6 +88,10 @@
       ]
     },
     {
+      "type": "custom-content",
+      "markdown": "<h4 class=\"products-carousel__title\"><a href=\"https://cwrjeans.netlify.app/cwr-jeans\">LANÇAMENTOS</a></h4>"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "news"
