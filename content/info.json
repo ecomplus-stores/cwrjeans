@@ -2,12 +2,14 @@
   "shipping": {
     "show": true,
     "text": "Entregamos para todo o Brasil",
-    "title": "Pronta Entrega - Envio Rápido e Seguro"
+    "title": "Pronta Entrega - Envio Rápido e Seguro",
+    "link": "https://cwrjeans.com.br/pages/entrega"
   },
   "installments": {
     "show": true,
-    "text": "Parcele em até 3x sem juros",
-    "title": "5% de desconto no PIX ou "
+    "text": "Parcele em até 5x sem juros",
+    "title": "5% de desconto no PIX ou ",
+    "link": "https://cwrjeans.com.br/pages/pagamentos"
   },
   "exchange": {
     "show": false,
