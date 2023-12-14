@@ -9,7 +9,7 @@
       "slides": [
         {
           "img": "/img/uploads/__slideprincipal.webp",
-          "link": "https://cwrjeans.netlify.app/moda-feminina",
+          "link": "https://cwrjeans.com.br/moda-feminina",
           "alt": "Moda Feminina Jeans - CWR Jeans",
           "start": "2023-12-01T17:16:34.729Z",
           "end": "",
@@ -20,7 +20,7 @@
           "end": "",
           "img": "/img/uploads/__modamasculina.webp",
           "mobile_img": "/img/uploads/__modamasculina-m.webp",
-          "link": "https://cwrjeans.netlify.app/moda-masculina",
+          "link": "https://cwrjeans.com.br/moda-masculina",
           "alt": "Moda Masculina Jeans - CWR Jeans"
         }
       ]
