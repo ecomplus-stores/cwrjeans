@@ -65,13 +65,16 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/cupomprimeiracompra.png"
+          "img": "/img/uploads/cupomprimeiracompra.png",
+          "link": "https://cwrjeans.com.br/pages/pagamentos"
         },
         {
-          "img": "/img/uploads/lojadefabrica.png"
+          "img": "/img/uploads/lojadefabrica.png",
+          "link": "https://cwrjeans.com.br/pages/contato"
         },
         {
-          "img": "/img/uploads/whatsapp.png"
+          "img": "/img/uploads/whatsapp.png",
+          "link": "https://cwrjeans.com.br/pages/contato"
         }
       ]
     },
@@ -101,7 +104,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "<h4 class=\"products-carousel__title\"><a href=\"https://cwrjeans.netlify.app/cwr-jeans\">DESTAQUES DA SEMANA</a></h4>"
+      "markdown": "<h4 class=\"products-carousel__title\"><a href=\"https://cwrjeans.com.br/cwr-jeans\">DESTAQUES DA SEMANA</a></h4>"
     },
     {
       "type": "dynamic-showcase",
