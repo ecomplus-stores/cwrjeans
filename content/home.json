@@ -26,6 +26,11 @@
       ]
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/fachada-loja.png",
+      "mobile_img": "/img/uploads/fachada-lojam.png"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -60,23 +65,6 @@
       "limit": 12,
       "collection_id": "65660c202cd6b65959c14ad9:categories:Calças Femininas:/calcas-femininas",
       "sort": "views"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/cupomprimeiracompra.png",
-          "link": "https://cwrjeans.com.br/pages/pagamentos"
-        },
-        {
-          "img": "/img/uploads/lojadefabrica.png",
-          "link": "https://cwrjeans.com.br/pages/contato"
-        },
-        {
-          "img": "/img/uploads/whatsapp.png",
-          "link": "https://cwrjeans.com.br/pages/contato"
-        }
-      ]
     },
     {
       "type": "collection-shelf",
