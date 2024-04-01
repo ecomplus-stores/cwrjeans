@@ -5,91 +5,75 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": true,
+      "full_width": false,
       "slides": [
         {
-          "img": "/img/uploads/__slideprincipal.webp",
-          "link": "https://cwrjeans.com.br/moda-feminina",
-          "alt": "Moda Feminina Jeans - CWR Jeans",
-          "start": "2023-12-01T17:16:34.729Z",
+          "img": "/img/uploads/__jaquetas.webp",
+          "link": "https://cwrjeans.com.br/jaquetas-femininas",
+          "alt": "Moda Feminina Jeans - CWR Jeans - Jaquetas Jeans",
+          "start": "2024-04-01T02:14:14.586Z",
           "end": "",
-          "mobile_img": "/img/uploads/__slideprincipalm.webp"
+          "mobile_img": "/img/uploads/__jaquetas-m.webp"
+        }
+      ]
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__pontaestoque.webp",
+          "link": "",
+          "alt": "Calças Jeans a partir de R$49,99 - Ponta de Estoque CWR Jeans"
         },
         {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/__modamasculina.webp",
-          "mobile_img": "/img/uploads/__modamasculina-m.webp",
-          "link": "https://cwrjeans.com.br/moda-masculina",
-          "alt": "Moda Masculina Jeans - CWR Jeans"
+          "img": "/img/uploads/__skinny-abril.webp",
+          "link": "https://cwrjeans.com.br/calca-feminina-jeans-skinny",
+          "alt": "Descubra o estilo que abraça suas curvas com a calça jeans skinny CWR JEANS!"
         }
       ]
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/fachada-loja.png",
-      "mobile_img": "/img/uploads/fachada-lojam.png"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/__calcawideleg.webp",
-          "link": "https://cwrjeans.com.br/calca-jeans-feminina-wide-leg",
-          "alt": "Experimente o charme e conforto da calça feminina jeans Wide Leg da CWR JEANS!"
-        },
-        {
-          "img": "/img/uploads/__cargo.webp",
-          "link": "https://cwrjeans.com.br/calca-feminina-modelo-cargo",
-          "alt": "Explore o estilo único da calça feminina modelo Cargo da CWR JEANS!"
-        },
-        {
-          "img": "/img/uploads/__skinny.webp",
-          "link": "https://cwrjeans.com.br/calca-feminina-jeans-skinny",
-          "alt": "Descubra o estilo que abraça suas curvas com a calça jeans skinny CWR JEANS!"
-        },
-        {
-          "img": "/img/uploads/__cigarrete.webp",
-          "link": "https://cwrjeans.com.br/calcas-femininas-cigarrete",
-          "alt": "Explore a elegância atemporal da calça feminina modelo Cigarrete da CWR JEANS!"
-        }
-      ]
+      "img": "/img/uploads/__wideleg-abril.webp",
+      "link": "https://cwrjeans.com.br/calca-jeans-feminina-wide-leg",
+      "alt": "Calças Jeans Direto da Fábrica - Wide Leg "
     },
     {
       "page": 1,
-      "title": "Veja todas a Coleção de Calças Femininas CWR Jeans",
+      "title": "Wide Leg - Liberdade, Conforto e Elegância",
       "shuffle": false,
       "headless": false,
       "type": "collection-shelf",
-      "link": "https://cwrjeans.com.br/calcas-femininas",
+      "link": "https://cwrjeans.com.br/calca-jeans-feminina-wide-leg",
       "limit": 12,
-      "collection_id": "65660c202cd6b65959c14ad9:categories:Calças Femininas:/calcas-femininas",
+      "collection_id": "6575154d2cd6b65959d5e5dc:collections:Calça Feminina Jeans Wide Leg:/calca-jeans-feminina-wide-leg",
       "sort": "sales"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__cigarrete-abril.webp",
+      "link": "https://cwrjeans.com.br/calcas-femininas-cigarrete",
+      "alt": "Calças Cigarrete - Modelagem Perfeita, vem escolher a sua!"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "65660cf22cd6b65959c14ccb:categories:Moda Feminina:/moda-feminina",
-      "sort": "news",
-      "title": "Os mais desejados da semana",
-      "link": "https://cwrjeans.com.br/moda-feminina"
+      "collection_id": "65751c8d2cd6b65959d5e960:collections:Calças Femininas Cigarrete:/calcas-femininas-cigarrete",
+      "sort": "views",
+      "title": "Modelagem Perfeita, vem escolher a sua!",
+      "link": "https://cwrjeans.com.br/calcas-femininas-cigarrete"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/camisasfemininas.png",
-          "link": "https://cwrjeans.netlify.app/camisas-femininas",
-          "alt": "Camisas Jeans Feminina - CWR Jeans"
-        },
-        {
-          "img": "/img/uploads/verao2024.png",
-          "link": "https://cwrjeans.netlify.app/cwr-jeans",
-          "alt": "CWR Jeans - Loja de Fábrica Moda Feminina e Masculina Jeans"
-        }
-      ]
+      "type": "responsive-banner",
+      "img": "/img/uploads/__masculina-abril.webp",
+      "link": "https://cwrjeans.com.br/moda-masculina",
+      "alt": "Moda Masculina : Qualidade e Conforto para seu dia a dia"
     },
     {
       "type": "custom-content",
@@ -98,11 +82,7 @@
     {
       "type": "dynamic-showcase",
       "load_more": false,
-      "sort": "views"
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
+      "sort": "news"
     }
   ]
 }
