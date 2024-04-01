@@ -3,12 +3,19 @@
   "body": "<!--StartFragment-->\n\n🌟 Descubra as **melhores ofertas** na nossa Ponta de Estoque! 🌟\n\nTemos as calças dos seus sonhos **a partir de apenas R$49,99**! Sim, você leu certo - qualidade, estilo e economia em uma única oferta incrível!\n\nCompre de forma rápida e fácil pelo **[WhatsApp](https://wa.me/5514981310201)** - basta nos enviar uma mensagem e nós enviaremos as fotos das nossas calças disponíveis. Escolha seus modelos preferidos no conforto da sua casa e finalize sua compra conosco.\n\nE não se preocupe com a entrega - enviamos para todo o Brasil! Calculamos o frete também por whatsapp.\n\nEntão, o que está esperando? Aproveite agora mesmo essa oportunidade imperdível! Entre em contato conosco e garanta suas calças favoritas antes que acabem. \n\nEstamos aqui para ajudar você a arrasar no estilo com conforto e economia. 😊👖🛍️\n\n\n\n<!--EndFragment-->",
   "sections": [
     {
+      "type": "page-title"
+    },
+    {
       "type": "extra-page",
       "enabled": true
     },
     {
       "type": "custom-html",
       "html": "<center><a href=\"https://wa.me/5514981310201\"><button type=\"button\" class=\"btn btn-lg btn-primary\"><span><i class=\"i-shopping-bag mr-1\"></i>\n Fale Conosco</span></button></center>"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ],
   "meta_title": "Ponta de Estoque CWR Jeans - Especial Descontos",
