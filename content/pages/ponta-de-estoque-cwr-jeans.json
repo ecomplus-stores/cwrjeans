@@ -14,6 +14,18 @@
       "html": "<center><a href=\"https://wa.me/5514981310201\"target=\"_blank\"><button type=\"button\" class=\"btn btn-lg btn-primary\"><span><i class=\"i-shopping-bag mr-1\"></i>\n Fale Conosco</span></button></center>"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__pontaestoque1.webp",
+      "link": "https://wa.me/5514981310201",
+      "alt": "Ponta de Estoque CWR Jeans - Especial Descontos"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/2dd5bdc2-2f5f-437e-8774-0faeb32f7f45.jpg",
+      "link": "",
+      "alt": "CWR Jeans Loja de Fábrica - Avaré- SP"
+    },
+    {
       "type": "info-bar",
       "enabled": true
     }
