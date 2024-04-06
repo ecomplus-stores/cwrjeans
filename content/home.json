@@ -22,11 +22,6 @@
       "enabled": true
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/live111.png",
-      "link": "https://www.instagram.com/cwrjeans/live/?broadcast_id=17994323513551656"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
