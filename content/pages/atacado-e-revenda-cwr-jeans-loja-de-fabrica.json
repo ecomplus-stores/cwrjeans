@@ -34,7 +34,7 @@
     },
     {
       "type": "custom-html",
-      "html": "\n<center><a href=\"https://wa.me/5514997074507\" class=\"bt\" target=\"_blank\">Fale Conosco</a>\n  </center>"
+      "html": "\n<a href=\"https://wa.me/5514997074507\" class=\"bt\" target=\"_blank\">Fale Conosco</a>\n  "
     },
     {
       "type": "info-bar",
