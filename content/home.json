@@ -83,6 +83,10 @@
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "views"
+    },
+    {
+      "type": "custom-html",
+      "html": "<h4 class=\"products-carousel__title\"><a href=\"https://cwrjeans.com.br/pages/atacado-e-revenda-cwr-jeans-loja-de-fabrica\">Atacado e Revenda, saiba mais </a></h4>"
     }
   ]
 }
