@@ -8,11 +8,12 @@
     "title": "Informações",
     "list": [
       {
-        "text": "Loja de Fábrica "
+        "text": "Loja de Fábrica ",
+        "url": "https://cwrjeans.com.br/pages/sobre-nos"
       },
       {
         "text": "Como Comprar",
-        "url": "/pages/faq"
+        "url": "https://cwrjeans.com.br/pages/faq"
       },
       {
         "text": "Atacado",
@@ -20,19 +21,19 @@
       },
       {
         "text": "Formas de Envio",
-        "url": "/pages/entrega"
+        "url": "https://cwrjeans.com.br/pages/entrega"
       },
       {
         "text": "Formas de Pagamento",
-        "url": "/pages/pagamentos"
+        "url": "https://cwrjeans.com.br/pages/pagamentos"
       },
       {
         "text": "Segurança & Privacidade",
-        "url": "/pages/privacidade"
+        "url": "https://cwrjeans.com.br/pages/privacidade"
       },
       {
         "text": "Trocas e Devolução",
-        "url": "/pages/trocas"
+        "url": "https://cwrjeans.com.br/pages/trocas"
       }
     ]
   },
