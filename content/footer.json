@@ -4,7 +4,7 @@
     "text": ""
   },
   "links_1": {
-    "list_pages": true,
+    "list_pages": false,
     "title": "Informações",
     "list": [
       {
@@ -13,6 +13,10 @@
       {
         "text": "Como Comprar",
         "url": "/pages/faq"
+      },
+      {
+        "text": "Atacado",
+        "url": "https://cwrjeans.com.br/pages/atacado-e-revenda-cwr-jeans-loja-de-fabrica"
       },
       {
         "text": "Formas de Envio",
