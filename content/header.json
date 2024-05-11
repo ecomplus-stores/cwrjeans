@@ -1,16 +1,14 @@
 {
   "categories_list": {
     "featured": [
-      "/moda-feminina?Moda Feminina",
-      "/moda-masculina?Moda Masculina",
-      "/saias?Saias",
-      "/shorts?Shorts",
-      "/jardineiras?Jardineiras",
-      "/camisas-femininas?Camisas",
       "/calcas-femininas?Calças Femininas",
-      "/camisas-masculinas?Camisas Masculinas"
+      "/camisas-femininas?Camisas",
+      "/shorts?Shorts e Bermudas",
+      "/saias?Saias",
+      "/jardineiras?Jardineiras",
+      "/moda-masculina?Moda Masculina"
     ],
-    "random": 12,
+    "random": 6,
     "full_width": true
   },
   "centralized_logo": false,
