@@ -15,8 +15,10 @@
   },
   "centralized_logo": false,
   "marketing_stripe": {
-    "text": "",
-    "link": ""
+    "text": "CUPOM: PRIMEIRACOMPRA   |  5% DE DESCONTO NO PIX  | PARCELE EM ATÉ 5X SEM JUROS NO CARTÃO",
+    "link": "https://cwrjeans.com.br/pages/pagamentos",
+    "background": "#445585",
+    "color": "#ffffff"
   },
   "alphabetical_order_submenu": true,
   "popup": "",
