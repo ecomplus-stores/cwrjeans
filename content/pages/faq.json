@@ -2,5 +2,27 @@
   "title": "Dúvidas frequentes",
   "meta_title": "Dúvidas frequentes",
   "meta_description": "Dúvidas frequentes",
-  "body": "Empresa no ramo de confecção em jeans a mais de 30 anos no mercado, costurando para grandes marcas e agora com marca própria. Fornecemos informações precisas sobre tamanhos e medidas para você escolher os seus produtos que melhor te atendem. Se você precisar de imagens diferentes, informações mais detalhadas, teremos o prazer de enviá-los via e-mail ou whatsapp. \n\n**COMO COMPRAR?**\n\nÉ muito fácil comprar seus produtos na CWR Jeans.\n\nEscolha seus produtos, clique em adicionar ao carrinho ou no botão comprar, ele será adicionado ao seu carrinho.\n\nApós escolher todos os produtos que desejar. Clique no carrinho em Finalizar Compra\n\nDefina o frete de envio"
+  "body": "Empresa no ramo de confecção em jeans a mais de 30 anos no mercado, costurando para grandes marcas e agora com marca própria. Fornecemos informações precisas sobre tamanhos e medidas para você escolher os seus produtos que melhor te atendem. Se você precisar de imagens diferentes, informações mais detalhadas, teremos o prazer de enviá-los via e-mail ou whatsapp. \n\n**COMO COMPRAR?**\n\nÉ muito fácil comprar seus produtos na CWR Jeans.\n\nEscolha seus produtos, clique em adicionar ao carrinho ou no botão comprar, ele será adicionado ao seu carrinho.\n\nApós escolher todos os produtos que desejar. Clique no carrinho em Finalizar Compra\n\nDefina o frete de envio",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "views"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
