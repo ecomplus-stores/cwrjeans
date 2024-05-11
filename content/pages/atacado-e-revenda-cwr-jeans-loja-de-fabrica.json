@@ -1,0 +1,44 @@
+{
+  "title": "Atacado e Revenda - CWR Jeans - Loja de Fábrica ",
+  "body": "👖🛍️ Seja um Revendedor CWR Jeans! 👖🛍️\n\n<!--StartFragment-->\n\nProcurando peças jeans de alta qualidade para revender? A CWR Jeans tem tudo o que você precisa para impulsionar seus negócios! Com mais de 30 anos de experiência no mercado, nossas peças são confeccionadas para oferecer estilo e conforto incomparáveis, perfeitas para o dia a dia dos seus clientes.\n\nPor que escolher a CWR Jeans como sua parceira de negócios? \n\n✅ **Qualidade Superior:** Nossas peças são produzidas com os melhores materiais e acabamentos, garantindo durabilidade e satisfação. \n\n✅ **Estilo Versátil:** Temos uma ampla variedade de estilos e cortes para atender a todos os gostos e tendências. \n\n✅ **Conforto Inigualável:** Priorizamos o conforto em cada detalhe de nossos produtos, para que seus clientes se sintam confiantes e confortáveis o dia todo. \n\n✅ **Melhor Preço:** Oferecemos preços competitivos para que você possa maximizar seus lucros sem comprometer a qualidade.\n\n ✅ **Entrega Rápida e Segura:** Garantimos uma entrega rápida e segura, para que você tenha suas mercadorias sempre à disposição.\n\nFaça seu pedido agora com um mínimo de apenas 6 peças e aproveite todos os benefícios de ser um revendedor CWR Jeans! Entre em contato conosco hoje mesmo para começar a lucrar com as melhores peças em jeans do mercado.\n\n<!--EndFragment-->",
+  "meta_title": "Atacado e Revenda - CWR Jeans - Loja de Fábrica ",
+  "meta_description": "Atacado e Revenda - CWR Jeans - Loja de Fábrica ",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__atacado1.webp",
+          "link": "https://wa.me/5514997074507"
+        },
+        {
+          "img": "/img/uploads/__atacado-whatsapp.webp",
+          "link": "https://wa.me/5514997074507"
+        },
+        {
+          "img": "/img/uploads/_atacado-whatsapp1.webp",
+          "link": "https://wa.me/5514997074507"
+        }
+      ]
+    },
+    {
+      "type": "custom-html",
+      "html": "\n<center><a href=\"https://wa.me/5514997074507\" class=\"bt\" target=\"_blank\">Fale Conosco</a>\n  </center>"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
+}
