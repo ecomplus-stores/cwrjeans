@@ -30,27 +30,6 @@
       "enabled": true
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/__pontaestoque.webp",
-          "link": "https://cwrjeans.com.br/pages/ponta-de-estoque-cwr-jeans",
-          "alt": "Calças Jeans a partir de R$49,99 - Ponta de Estoque CWR Jeans"
-        },
-        {
-          "img": "/img/uploads/__skinny-abril.webp",
-          "link": "https://cwrjeans.com.br/calca-feminina-jeans-skinny",
-          "alt": "Descubra o estilo que abraça suas curvas com a calça jeans skinny CWR JEANS!"
-        }
-      ]
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/__wideleg-abril.webp",
-      "link": "https://cwrjeans.com.br/calca-jeans-feminina-wide-leg",
-      "alt": "Calças Jeans Direto da Fábrica - Wide Leg "
-    },
-    {
       "page": 1,
       "title": "As mais pedidas ",
       "shuffle": false,
@@ -84,6 +63,26 @@
       "alt": "Moda Masculina : Qualidade e Conforto para seu dia a dia"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__atacado.webp",
+          "link": "https://cwrjeans.com.br/pages/atacado-e-revenda-cwr-jeans-loja-de-fabrica",
+          "alt": "ATACADO E REVENDA CWRJEANS"
+        },
+        {
+          "img": "/img/uploads/__pontaestoque.webp",
+          "link": "https://cwrjeans.com.br/pages/ponta-de-estoque-cwr-jeans",
+          "alt": "CALÇAS JEANS PONTA DE ESTOQUE"
+        },
+        {
+          "img": "/img/uploads/__lojafisica.webp",
+          "link": "https://cwrjeans.com.br/pages/contato",
+          "alt": "CWR JEANS - LOJA DE FÁBRICA EM AVARÉ-SP"
+        }
+      ]
+    },
+    {
       "type": "custom-content",
       "markdown": "<h4 class=\"products-carousel__title\"><a href=\"https://cwrjeans.com.br/cwr-jeans\">DESTAQUES DA SEMANA</a></h4>"
     },
@@ -93,8 +92,10 @@
       "sort": "views"
     },
     {
-      "type": "custom-html",
-      "html": "<h4 class=\"products-carousel__title\"><a href=\"https://cwrjeans.com.br/pages/atacado-e-revenda-cwr-jeans-loja-de-fabrica\">Atacado e Revenda, saiba mais </a></h4>"
+      "type": "responsive-banner",
+      "img": "/img/uploads/__wideleg-abril.webp",
+      "link": "https://cwrjeans.com.br/calca-jeans-feminina-wide-leg",
+      "alt": "Calças Jeans Direto da Fábrica - Wide Leg "
     }
   ]
 }
