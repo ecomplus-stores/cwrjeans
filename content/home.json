@@ -8,20 +8,20 @@
       "full_width": false,
       "slides": [
         {
-          "img": "/img/uploads/__jaquetas.webp",
-          "link": "https://cwrjeans.com.br/jaquetas-femininas",
-          "alt": "Moda Feminina Jeans - CWR Jeans - Jaquetas Jeans",
-          "start": "2024-04-01T02:14:14.586Z",
-          "end": "",
-          "mobile_img": "/img/uploads/__jaquetas-m.webp"
-        },
-        {
           "start": "2024-06-05T16:08:51.507Z",
           "end": "",
           "img": "/img/uploads/__amor-desk.webp",
           "mobile_img": "/img/uploads/__amor-mobile.webp",
           "link": "https://cwrjeans.com.br/cwr-jeans",
           "alt": "Especial Dia dos Namorados"
+        },
+        {
+          "img": "/img/uploads/__jaquetas.webp",
+          "link": "https://cwrjeans.com.br/jaquetas-femininas",
+          "alt": "Moda Feminina Jeans - CWR Jeans - Jaquetas Jeans",
+          "start": "2024-04-01T02:14:14.586Z",
+          "end": "",
+          "mobile_img": "/img/uploads/__jaquetas-m.webp"
         }
       ]
     },
