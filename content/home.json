@@ -84,12 +84,12 @@
     },
     {
       "type": "custom-content",
-      "markdown": "<h4 class=\"products-carousel__title\"><a href=\"https://cwrjeans.com.br/cwr-jeans\">DESTAQUES DA SEMANA</a></h4>"
+      "markdown": "<h4 class=\"products-carousel__title\"><a href=\"https://cwrjeans.com.br/cwr-jeans\">DESTAQUES DA LOJA </a></h4>"
     },
     {
       "type": "dynamic-showcase",
       "load_more": false,
-      "sort": "views"
+      "sort": "sales"
     },
     {
       "type": "responsive-banner",
