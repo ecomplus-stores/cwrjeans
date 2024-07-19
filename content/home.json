@@ -34,10 +34,6 @@
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "page": 1,
       "title": "As mais pedidas ",
       "shuffle": false,
@@ -71,24 +67,8 @@
       "alt": "Moda Masculina : Qualidade e Conforto para seu dia a dia"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/__atacado.webp",
-          "link": "https://cwrjeans.com.br/pages/atacado-e-revenda-cwr-jeans-loja-de-fabrica",
-          "alt": "ATACADO E REVENDA CWRJEANS"
-        },
-        {
-          "img": "/img/uploads/__pontaestoque2.webp",
-          "link": "https://cwrjeans.com.br/pages/ponta-de-estoque-cwr-jeans",
-          "alt": "CALÇAS JEANS PONTA DE ESTOQUE"
-        },
-        {
-          "img": "/img/uploads/__lojafisica.webp",
-          "link": "https://cwrjeans.com.br/pages/contato",
-          "alt": "CWR JEANS - LOJA DE FÁBRICA EM AVARÉ-SP"
-        }
-      ]
+      "type": "info-bar",
+      "enabled": true
     },
     {
       "type": "custom-content",
@@ -104,6 +84,20 @@
       "img": "/img/uploads/__wideleg-abril.webp",
       "link": "https://cwrjeans.com.br/calca-jeans-feminina-wide-leg",
       "alt": "Calças Jeans Direto da Fábrica - Wide Leg "
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2024-07-19T20:09:58.120Z",
+          "end": "",
+          "img": "/img/uploads/__loja-fisica.webp",
+          "alt": "Visite Loja Física em Avaré - CWR Jeans",
+          "link": "https://cwrjeans.com.br/pages/contato"
+        }
+      ]
     }
   ]
 }
