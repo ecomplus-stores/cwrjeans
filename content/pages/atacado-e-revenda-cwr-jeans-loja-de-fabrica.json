@@ -9,32 +9,42 @@
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2024-07-19T19:18:25.097Z",
+          "end": "",
+          "img": "/img/uploads/__atacado1.webp",
+          "link": " https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F843393%2F1721404906CATALOGO_ATACADO-0724_.pdf",
+          "alt": "BAIXE O CATALOGO AQUI",
+          "mobile_img": "/img/uploads/__atacado-mobile.webp"
+        }
+      ]
+    },
+    {
+      "type": "page-title",
+      "title": "Atacado e Revenda CWR Jeans",
+      "description": "Revenda CWR Jeans e lucre com jeans de alta qualidade e estilo! +30 anos de experiência, fábrica própria, entrega rápida e pedido mínimo de apenas 6 peças. Baixe nosso catálogo e impulsione seu negócio!"
     },
     {
       "type": "extra-page",
       "enabled": true
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/__atacado1.webp",
-          "link": "https://wa.me/5514997074507"
-        },
-        {
-          "img": "/img/uploads/__atacado-whatsapp.webp",
-          "link": "https://wa.me/5514997074507"
-        },
-        {
-          "img": "/img/uploads/_atacado-whatsapp1.webp",
-          "link": "https://wa.me/5514997074507"
-        }
-      ]
+      "type": "responsive-banner",
+      "img": "/img/uploads/__atacado2.webp",
+      "link": " https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F843393%2F1721404906CATALOGO_ATACADO-0724_.pdf",
+      "alt": "BAIXE CATALOGO ATACADO AQUI",
+      "mobile_img": "/img/uploads/__atacado-mobile1.webp"
     },
     {
-      "type": "custom-html",
-      "html": "\n<a href=\"https://wa.me/5514997074507\" class=\"bt\" target=\"_blank\">Fale Conosco</a>\n  "
+      "type": "responsive-banner",
+      "img": "/img/uploads/__atacado3.webp",
+      "mobile_img": "/img/uploads/__atacado-mobile2.webp",
+      "link": "https://wa.me/5514997074507",
+      "alt": "FALE CONOSCO"
     },
     {
       "type": "info-bar",
