@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.7ef97deba372db0f26b764a0c5cb633d.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.236a4724b0642856aa126c82340c44aa.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.145f0b8bd63ab7adb96dd3a2457b6b9c.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.4bdce5a59572934ec57aef3db017a0a4.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.c7acf0722349102315f54b3a2586e8d5.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "CWR JEANS - Loja de Fábrica em Avaré - Moda Jeans Feminino e Masculino - Estilo e Conforto",
+  "short_name": "CWR JEANS - Moda Jeans Feminino e Nasculino - Estilo e Conforto",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "CWR Jeans - O jeans perfeito você encontra aqui, envio para Todo Brasil.\nEstilo e conforto em um só lugar.\nLoja e fábrica em Avaré-SP",
+  "background_color": "#ffffff",
+  "theme_color": "#191d47"
+}
