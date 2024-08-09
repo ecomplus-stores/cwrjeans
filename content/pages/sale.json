@@ -1,0 +1,17 @@
+{
+  "title": "SALE",
+  "body": "Descontos incríveis em jeans de alta qualidade na CWR JEANS! Encontre peças para todos os estilos e tamanhos com preços imperdíveis. Aproveite agora e renove seu guarda-roupa!",
+  "meta_description": "Promoção rolando na CWR JEANS! Não perca a chance de garantir seu jeans dos sonhos com descontos especiais.",
+  "meta_title": "Ofertas Especiais CWR JEANS: Seu Jeans Favorito com Preços Incríveis!",
+  "sections": [
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "offers"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
+}
