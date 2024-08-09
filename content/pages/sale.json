@@ -5,6 +5,10 @@
   "meta_title": "Ofertas Especiais CWR JEANS: Seu Jeans Favorito com Preços Incríveis!",
   "sections": [
     {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "offers"
