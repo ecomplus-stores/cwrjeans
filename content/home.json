@@ -34,12 +34,6 @@
       ]
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/__cigarrete-abril.webp",
-      "link": "https://cwrjeans.com.br/calcas-femininas-cigarrete",
-      "alt": "Calças Cigarrete - Modelagem Perfeita, vem escolher a sua!"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -64,6 +58,12 @@
       "sort": "sales",
       "link": "https://cwrjeans.com.br/moda-masculina",
       "title": "DESTAQUES "
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__cigarrete-abril.webp",
+      "link": "https://cwrjeans.com.br/calcas-femininas-cigarrete",
+      "alt": "Calças Cigarrete - Modelagem Perfeita, vem escolher a sua!"
     },
     {
       "type": "collection-shelf",
