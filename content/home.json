@@ -8,20 +8,20 @@
       "full_width": true,
       "slides": [
         {
-          "img": "/img/uploads/__masculina.webp",
-          "link": "https://cwrjeans.com.br/moda-masculina",
-          "alt": "Moda Masculina Jeans - CWR Jeans ",
-          "start": "2024-07-19T20:06:13.739Z",
-          "end": "",
-          "mobile_img": "/img/uploads/__masculina-mobile.webp"
-        },
-        {
           "start": "2024-07-19T20:07:09.737Z",
           "end": "",
           "img": "/img/uploads/__jaquetas.webp",
           "mobile_img": "/img/uploads/__jaquetas-mobile.webp",
           "link": "https://cwrjeans.com.br/jaquetas-femininas",
           "alt": "Jaquetas CWR Jeans - veja aqui"
+        },
+        {
+          "img": "/img/uploads/__masculina.webp",
+          "link": "https://cwrjeans.com.br/moda-masculina",
+          "alt": "Moda Masculina Jeans - CWR Jeans ",
+          "start": "2024-07-19T20:06:13.739Z",
+          "end": "",
+          "mobile_img": "/img/uploads/__masculina-mobile.webp"
         },
         {
           "start": "2024-07-19T20:07:44.977Z",
